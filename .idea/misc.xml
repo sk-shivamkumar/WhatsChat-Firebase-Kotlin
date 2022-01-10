@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable-v24/bgbtn.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/bg_auth.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/bg_google.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/bglogin.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/ic_contacts.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/reciever_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/drawable/sender_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_authentication.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_contact.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_contact_adapter.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_message.xml" value="0.264" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/fragment_chats.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/fragment_message.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/fragment_status.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/rv_contacts.xml" value="0.264" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/rv_receiver.xml" value="0.264" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/rv_reciever.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/rv_sender.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/layout/rv_status.xml" value="0.264" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/Chat/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.26614583333333336" />
+        <entry key="..\:/SkillVertex/WhatsChat/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/SkillVertex/WhatsChat/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

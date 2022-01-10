@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448649239556",
+    "project_id": "whatschat-93586",
+    "storage_bucket": "whatschat-93586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448649239556:android:8c3e85d67f7817aa78e951",
+        "android_client_info": {
+          "package_name": "com.skappstech.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448649239556-lr37vj137o8222r0a6nag481qn4s9ndj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAgE5WoXWy7MUUUwdXHZ3tmRE6t_lp-dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448649239556-lr37vj137o8222r0a6nag481qn4s9ndj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

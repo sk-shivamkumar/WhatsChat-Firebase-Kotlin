@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="todo">TODO</string>
+    <string name="type_something">Type something...</string>
+    <string name="todo1">TODO</string>
+    <string name="signup">SignUp</string>
+</resources>
